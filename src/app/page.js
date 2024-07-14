@@ -22,6 +22,7 @@ const Properties = () => {
         <p className="mt-4 text-lg font-normal  text-neutral-300 max-w-lg text-center mx-auto px-4">
          Get the latest auction details 
         </p>
+   
 
         <Link
           href={"/book"}
@@ -29,6 +30,7 @@ const Properties = () => {
         >
           Want to connect with us
         </Link>
+                   </div>
             <h1 className="text-2xl font-bold mb-4 text-black">ICICI Bank Properties for Sale</h1>
             <div className="overflow-x-auto">
                 <table className="min-w-full bg-white border border-gray-200">
