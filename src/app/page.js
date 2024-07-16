@@ -1,5 +1,7 @@
 "use client"
 import { useEffect, useState } from 'react';
+import Hero from './components/Hero';
+import Hero2 from './components/Hero2';
 
 const Properties = () => {
     const [properties, setProperties] = useState([]);
@@ -14,8 +16,9 @@ const Properties = () => {
     }, []);
 
     return (
-        <div className="container mx-auto p-4">
-            <h1 className="text-2xl font-bold mb-4 text-black">ICICI Bank Properties for Sale</h1>
+        <div>
+            <Hero2 />
+            {/* <h1 className="text-2xl font-bold mb-4 text-black">ICICI Bank Properties for Sale</h1> */}
             <div className="overflow-x-auto">
                 <table className="min-w-full bg-white border border-gray-200">
                     <thead>
