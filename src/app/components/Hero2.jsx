@@ -39,6 +39,7 @@ export default function Hero2() {
                 <button className="bg-green-500 text-white px-4 py-2 rounded-lg w-full md:w-auto md:ml-4">Search</button>
               </div>
             </div>
+            
             <div className="flex flex-wrap justify-center md:justify-start space-x-2 mb-4">
               <span className="text-zinc-500">Popular Localities</span>
               <button className="bg-zinc-200 text-zinc-800 px-4 py-2 rounded-lg mb-2 md:mb-0">Mira Road East</button>
