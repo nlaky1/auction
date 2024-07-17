@@ -11,11 +11,15 @@
   "dependencies": {
     "axios": "^1.7.2",
     "cheerio": "^1.0.0-rc.12",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.4",
     "next": "14.2.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
+    "@types/react": "18.3.3",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "postcss": "^8",

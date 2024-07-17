@@ -1,0 +1,113 @@
+[
+    {
+      "State": "Maharashtra",
+      "City": "Mumbai",
+      "Bank": "State Bank of India",
+      "Borrower Name": "Rajesh Kumar",
+      "Property Type": "Residential",
+      "Details": "2 BHK Apartment in Andheri",
+      "Reserve Price": "1,50,00,000",
+      "Auction Date": "2024-08-01"
+    },
+    {
+      "State": "Karnataka",
+      "City": "Bengaluru",
+      "Bank": "HDFC Bank",
+      "Borrower Name": "Anita Desai",
+      "Property Type": "Commercial",
+      "Details": "Office Space in Whitefield",
+      "Reserve Price": "3,00,00,000",
+      "Auction Date": "2024-08-10"
+    },
+    {
+      "State": "Tamil Nadu",
+      "City": "Chennai",
+      "Bank": "ICICI Bank",
+      "Borrower Name": "Suresh Reddy",
+      "Property Type": "Land",
+      "Details": "Plot in OMR",
+      "Reserve Price": "75,00,000",
+      "Auction Date": "2024-08-15"
+    },
+    {
+      "State": "West Bengal",
+      "City": "Kolkata",
+      "Bank": "Axis Bank",
+      "Borrower Name": "Priya Sen",
+      "Property Type": "Industrial",
+      "Details": "Factory in Howrah",
+      "Reserve Price": "5,00,00,000",
+      "Auction Date": "2024-08-20"
+    },
+    {
+      "State": "Uttar Pradesh",
+      "City": "Lucknow",
+      "Bank": "Punjab National Bank",
+      "Borrower Name": "Amit Sharma",
+      "Property Type": "Residential",
+      "Details": "3 BHK Villa in Gomti Nagar",
+      "Reserve Price": "2,00,00,000",
+      "Auction Date": "2024-08-25"
+    },
+    {
+      "State": "Gujarat",
+      "City": "Ahmedabad",
+      "Bank": "Bank of Baroda",
+      "Borrower Name": "Ravi Patel",
+      "Property Type": "Commercial",
+      "Details": "Shop in SG Highway",
+      "Reserve Price": "1,25,00,000",
+      "Auction Date": "2024-08-30"
+    },
+    {
+      "State": "Rajasthan",
+      "City": "Jaipur",
+      "Bank": "Yes Bank",
+      "Borrower Name": "Vikram Singh",
+      "Property Type": "Residential",
+      "Details": "4 BHK Villa in Vaishali Nagar",
+      "Reserve Price": "3,50,00,000",
+      "Auction Date": "2024-09-01"
+    },
+    {
+      "State": "Madhya Pradesh",
+      "City": "Indore",
+      "Bank": "Kotak Mahindra Bank",
+      "Borrower Name": "Sunita Jain",
+      "Property Type": "Commercial",
+      "Details": "Retail Shop in Vijay Nagar",
+      "Reserve Price": "1,75,00,000",
+      "Auction Date": "2024-09-05"
+    },
+    {
+      "State": "Punjab",
+      "City": "Chandigarh",
+      "Bank": "IndusInd Bank",
+      "Borrower Name": "Harpreet Kaur",
+      "Property Type": "Residential",
+      "Details": "3 BHK Apartment in Sector 22",
+      "Reserve Price": "1,80,00,000",
+      "Auction Date": "2024-09-10"
+    },
+    {
+      "State": "Haryana",
+      "City": "Gurugram",
+      "Bank": "IDFC First Bank",
+      "Borrower Name": "Anil Yadav",
+      "Property Type": "Industrial",
+      "Details": "Warehouse in Manesar",
+      "Reserve Price": "4,50,00,000",
+      "Auction Date": "2024-09-15"
+    },
+    {
+      "State": "Telangana",
+      "City": "Hyderabad",
+      "Bank": "Union Bank of India",
+      "Borrower Name": "Ramesh Rao",
+      "Property Type": "Land",
+      "Details": "Plot in Gachibowli",
+      "Reserve Price": "90,00,000",
+      "Auction Date": "2024-09-20"
+    }
+  ]
+  
