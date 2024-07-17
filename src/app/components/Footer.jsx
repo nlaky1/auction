@@ -12,10 +12,12 @@ const Footer = () => {
           />
           <span className="text-2xl font-bold">ACME</span>
         </div>
+
         <p className="mb-4">
           © 2024 ACME. All Rights Reserved.
         </p>
         <div className="flex justify-center space-x-4">
+            
           <a href="#" className="hover:text-gray-400">Home</a>
           <a href="#" className="hover:text-gray-400">About Us</a>
           <a href="#" className="hover:text-gray-400">Contact</a>
